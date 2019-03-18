@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://github.com/Seongyong Park/test_project
+    href: https://github.com/psychemistz/test_project
 output:
   workflowr::wflow_html:
     toc: yes
